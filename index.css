@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    background-color: #4c3b38;
+    height: 100px;    
+}
+.secsion0{
+float: left;
+width: 20%;
+background-color: #dfedcd;
+min-height: 330px;    
+}
+.secsion1{
+float: left;
+width: 55%;
+background-color: rgb(157, 255, 71);
+min-height: 200px;
+}
+.secsion2{     
+float: left;
+width: 45%;
+background-color: rgb(157, 255, 71);
+min-height: 200px;
+}
+.nav{
+background-color:#dfedcd;
+height: 100px;
+}
+.article{
+float: left;
+width: 45%;
+background-color: #dfedcd;
+min-height: 330px;
+}
+.aside{
+float: left;
+width: 35%;
+background-color:  #dfedcd;
+min-height: 330px;
+}
+.footer{
+    
+clear: both;
+background-color: rgb(24, 210, 24);
+height: 200px;
+}  
+.secsion3{
+float: left;
+width: 55%;
+background-color: rgb(157, 255, 71);
+min-height: 200px;
+}
+.secsion4{
+float: left;
+width: 45%;
+background-color: rgb(157, 255, 71);
+min-height: 200px;
+}
+.hello{
+color: ;
+}
+.sothich{
+    margin-top: 20px   
+}
+.kinang{
+    margin-top: 20px;
+}
+.kinhnghiemvieclam{
+    margin-top: 20px;
+}
+.hocvan{
+    margin-top: 20px;
+}
+.thongtincanhan{
+    margin-top: 20px;
+}
+.tienganh{
+    margin-top: 20px;
+}
+.tinhoc{
+    margin-top: 20px;
+}
+.thoigian{
+    border: 2px solid black;
+    margin-left: 50px;
+    width: 150px;
+    height: 60px;
+    background-color: aqua;
+    text-align: center;
+    line-height: 60px;
+}  
+
+
